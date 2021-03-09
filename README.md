@@ -1,2 +1,2 @@
 # reach-ls
-Reach Language Server
+Reach language server packages based on https://github.com/reach-sh/reach-ide
